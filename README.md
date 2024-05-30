@@ -8,10 +8,7 @@ Este projeto é uma aplicação em Python para a automação do envio de SMS. Ut
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Instalação](#instalação)
 - [Como Usar](#como-usar)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Como Contribuir](#como-contribuir)
 - [Licença](#licença)
-- [Contato](#contato)
 
 ## Introdução
 
